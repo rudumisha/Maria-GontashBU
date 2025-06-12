@@ -73,7 +73,7 @@ header {
 .header-main {
     text-align: left;
     max-width: 900px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 .header-main h1 {
